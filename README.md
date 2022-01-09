@@ -1,2 +1,2 @@
-# gatsby-blog
+# gatsby-site
 my personal site
